@@ -211,3 +211,4 @@ Based on the U.S. Bureau of Labor Statistics (BLS) projects, in the past 10 year
 ## list out functions
 
 *dplyr*: mutate, select, filter, summarise, arrange
+*ggplot2*: geom_smooth, geom_boxplot, geom_point

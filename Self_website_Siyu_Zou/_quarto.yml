@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: Siyu_project1
+  output-dir: docs
 
 website:
   title: "Personal website of Siyu Zou"
