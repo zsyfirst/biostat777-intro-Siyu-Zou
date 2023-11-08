@@ -53,7 +53,7 @@
     "href": "Example analysis.html#data-dictionary",
     "title": "Example analysis",
     "section": "data dictionary",
-    "text": "data dictionary\nHere is a data dictionary for what all the column names mean: https://github.com/rfordatascience/tidytuesday/tree/master/data/2021/2021-02-23/readme.md#data-dictionary"
+    "text": "data dictionary\nHere is a data dictionary for what all the column names mean: data dictionary"
   },
   {
     "objectID": "Example analysis.html#data-wrangling",
